@@ -56,7 +56,7 @@ export const Experience = () => {
             |
             <a
               className="font-light hover:font-bold transition-all"
-              href="https://karya.in/about/team.html"
+              href="https://karya.in/about/team/"
               target="_blank"
             >
               Core Team <FiExternalLink className="inline" />
