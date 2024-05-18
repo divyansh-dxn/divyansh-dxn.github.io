@@ -33,7 +33,7 @@ export const Experience = () => {
             </p>
           }
           title="I am currently working as an SDE at Karya Inc"
-          desc="At Karya, I am working on the development of the Karya Mobile app where users can do dataset collection and labeling of images, text, audio, and video via a WhatsApp-like chat-based UI. Tasks include annotating, labeling, and classifying images; converting text-to-speech and speech-to-text; collecting the image, audio, and video dataset; etc via phone. "
+          desc="At Karya, I lead the development of the Karya Android app where users can do dataset collection and labeling of images, text, audio, and video via a WhatsApp-like chat-based UI. Tasks include annotating, labeling, and classifying images; converting text-to-speech and speech-to-text; collecting the image, audio, and video dataset; etc via phone. "
           tech_stack={[
             'Android',
             'Kotlin',
@@ -82,7 +82,7 @@ export const Experience = () => {
               />
             </p>
           }
-          title="Last summer, I worked as GSoC contributor at AnkiDroid"
+          title="In summer 2022, I worked as GSoC contributor at AnkiDroid"
           desc="During my Google Summer of Code journey, I worked on migrating the AnkiDroid android app codebase from AsyncTask(deprecated) to Kotlin Coroutines. My work was extensively around replacing the underlying architecture of Asynchronous operations to use the newer and better Kotlin Coroutines. I also wrote a bash script to automate the set up of the testing environment on Unix Environment, it proved to be a very useful tool for folks around the community as it was really hard for new contributors to set up."
           tech_stack={[
             'Android',
